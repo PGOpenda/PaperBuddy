@@ -1,0 +1,53 @@
+body{
+    background-color: #FAEDE2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* INDEX */
+.login-btn{
+    background-color: #FAEDE2;
+    color: black;
+    outline: 1px solid #FAEDE2;
+}
+
+.signup-btn{
+    background-color: black;
+    color: #E7A4D4;
+    outline: 1px solid black;
+}
+
+.signup-btn:hover{
+    background-color: black;
+    color: #E7A4D4;
+    outline: 1px solid black;
+}
+
+.navbar-brand img{
+    max-width: 5%;
+    height: auto;
+}
+
+.navbar-brand{
+    font-family: 'Lato', sans-serif;
+}
+
+.display-5{
+    font-family: 'Lato', sans-serif;
+}
+
+.getstarted-btn{
+    background-color: #3c5232;
+    color: #E7A4D4;
+    outline: 1px solid #3c5232;
+}
+
+.getstarted-btn:hover{
+    background-color: #3c5232;
+    color: #E7A4D4;
+    outline: 1px solid #3c5232;
+}
+
+.footer{
+    font-size: 0.7rem;
+}
+
