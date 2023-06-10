@@ -51,3 +51,68 @@ body{
     font-size: 0.7rem;
 }
 
+.h3{
+    color: #E7A4D4;
+}
+
+.modal-content{
+    width:95%;
+}
+
+.form-check-label{
+    color: #E7A4D4;
+}
+
+.form-control{
+    background-color: #1A1A1A;
+    border-color: #E7A4D4;
+}
+
+.form-control::placeholder{
+    color: white;
+}
+
+.form-control:focus{
+    background-color: #1A1A1A;
+    border-color: #E7A4D4;
+    outline: solid 3px #E7A4D4;
+    color: white;
+}
+
+.form-sign{
+    color:#E7A4D4;
+}
+
+.form-sign a{
+    color:#E7A4D4;
+}
+
+.form-select{
+    color: white;
+    background-color: #1A1A1A;
+    border-color: #E7A4D4;
+}
+
+.form-select:focus{
+    border-color: #E7A4D4;
+    outline: solid 3px #E7A4D4;
+}
+
+.form-select option:checked{
+    background-color: #E7A4D4;
+    color: black;
+}
+
+.modal-body{
+    background-color: black;
+}
+
+.modal-body button{
+    background-color: #E7A4D4;
+    color: black;
+}
+
+.modal-body button:hover{
+    background-color: #E7A4D4;
+    color: black;
+}
