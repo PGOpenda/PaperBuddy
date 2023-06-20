@@ -112,3 +112,13 @@ body{
     background-color: #E7A4D4;
     color: black;
 }
+
+/* PROFILE */
+.main-body{
+    background-color: #E7A4D4;
+    border-radius: 5px;
+}
+
+.container .main-body .nav-link{
+    color:black;
+}

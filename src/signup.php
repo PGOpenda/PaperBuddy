@@ -21,7 +21,7 @@
     if (mysqli_stmt_affected_rows($statement) > 0) {
         header("Location: ../template/profile.php");
     } else {
-        die('Error inserting data to database:' . mysqli_error($connection));
+        die('Error:' . mysqli_error($connection));
     }
 
     // Close the statement
